@@ -1,3 +1,5 @@
+<img width="390" height="96" alt="YerbaTrack_logo" src="https://github.com/user-attachments/assets/7c3c3f52-5dc9-4418-a40f-737be5d5d79c" />
+
 ## YerbaTrack
 Proyecto para la recopilacion y analisis de datos sobre el precio de la Yerba Mate en Argentina desde el 2020 hasta la actualidad.
 Para este proyecto se uso Claude.ai
@@ -55,6 +57,7 @@ Los datos son simulados pero realistas, mostrando la escalada de precios que ha 
 <img width="281" height="573" alt="interfaz_01" src="https://github.com/user-attachments/assets/24f3a10a-833a-4273-8f52-77de3372adc9" />
 
 <img width="286" height="578" alt="interfaz_02" src="https://github.com/user-attachments/assets/df95480a-1093-428d-bbcb-47db678c8050" />
+
 
 <img width="282" height="574" alt="interfaz_03" src="https://github.com/user-attachments/assets/d57024d4-0743-4185-b7a0-8eed5844a451" />
 
