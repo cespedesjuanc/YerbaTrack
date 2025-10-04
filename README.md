@@ -1,6 +1,8 @@
 ## YerbaTrack
 Proyecto para la recopilacion y analisis de datos sobre el precio de la Yerba Mate en Argentina desde el 2020 hasta la actualidad.
 
+Creado por Juan Carlos Cespedes y Gonzalo Garcia para la Materia Ingles Tecnico de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial del ISFT N° 244 de la ciudad de Marcos Paz.
+
 Proyecto digital imaginativo para recopilar y analizar la variación del precio de la yerba mate en Argentina desde 2020 hasta la actualidad. El proyecto contiene gráficos interactivos. Consta de una App a la que le pusimos de nombre: YerbaTrack.
 Dentro de la app incluimos un “Simulador del Termo”: el usuario ingresa su sueldo actual y la app calcula cuántos termos llenos de mate podría preparar al mes según el precio promedio de la yerba.
 
