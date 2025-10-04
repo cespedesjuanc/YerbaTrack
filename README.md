@@ -1,5 +1,6 @@
 ## YerbaTrack
 Proyecto para la recopilacion y analisis de datos sobre el precio de la Yerba Mate en Argentina desde el 2020 hasta la actualidad.
+Para este proyecto se uso Claude.ai
 
 Creado por Juan Carlos Cespedes y Gonzalo Garcia para la Materia Ingles Tecnico de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial del ISFT N° 244 de la ciudad de Marcos Paz.
 
@@ -44,8 +45,7 @@ Iconos de Lucide React temáticos.
 
 # Link de la app:
 
-https://claude.ai/public/artifacts/495311bf-6b1e-4e8e-aa2e-b7d643d729f5
-
+https://claude.ai/public/artifacts/3b5043d8-c7d2-4f49-9680-75ef636c757b
 
 #
 Los datos son simulados pero realistas, mostrando la escalada de precios que ha tenido la yerba mate en Argentina. El simulador considera que un termo usa aproximadamente 50g de yerba y calcula todo basándose en paquetes de 1kg.
@@ -62,8 +62,10 @@ Los datos son simulados pero realistas, mostrando la escalada de precios que ha 
 
 # Interfaz Simulador del Termo:
 
-<img width="285" height="576" alt="interfaz_05" src="https://github.com/user-attachments/assets/dac62ebd-4b25-4f9b-8761-d9edd29ceb55" />
+<img width="286" height="575" alt="interfaz_05_ok" src="https://github.com/user-attachments/assets/1c507e10-4538-44e6-82af-d80dc949786b" />
 
 <img width="281" height="575" alt="interfaz_06" src="https://github.com/user-attachments/assets/56cbc407-f386-4c4d-b434-d52b363c07e0" />
 
 <img width="282" height="573" alt="interfaz_07" src="https://github.com/user-attachments/assets/be416b1c-c7df-4047-b0ce-250b30c0e55a" />
+
+
