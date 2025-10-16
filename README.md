@@ -47,7 +47,7 @@ Iconos de Lucide React temáticos.
 
 # Link de la app:
 
-https://claude.ai/public/artifacts/3b5043d8-c7d2-4f49-9680-75ef636c757b
+https://claude.ai/public/artifacts/360422f0-7aa1-4122-a082-01ebb36aa53a
 
 #
 Los datos son simulados pero realistas, mostrando la escalada de precios que ha tenido la yerba mate en Argentina. El simulador considera que un termo usa aproximadamente 50g de yerba y calcula todo basándose en paquetes de 1kg.
@@ -126,7 +126,7 @@ Thematic Lucide React icons.
 
 # Link to the app
 
-https://claude.ai/public/artifacts/3b5043d8-c7d2-4f49-9680-75ef636c757b
+https://claude.ai/public/artifacts/360422f0-7aa1-4122-a082-01ebb36aa53a
 
 #
 
